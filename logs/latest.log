@@ -1,0 +1,436 @@
+[20:14:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:14:26] [ServerMain/INFO]: Loaded 1175 recipes
+[20:14:27] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[20:14:27] [Server thread/INFO]: Loading properties
+[20:14:27] [Server thread/INFO]: This server is running CraftBukkit version 4149-Spigot-e2c1eee-4e7d749 (MC: 1.20.6) (Implementing API version 1.20.6-R0.1-SNAPSHOT)
+[20:14:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:14:27] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:14:27] [Server thread/INFO]: Debug logging is disabled
+[20:14:27] [Server thread/INFO]: Default game type: SURVIVAL
+[20:14:27] [Server thread/INFO]: Generating keypair
+[20:14:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:14:27] [Server thread/INFO]: Using epoll channel type
+[20:14:28] [Server thread/INFO]: [LifeStealZ] Loading LifeStealZ v1.1.19
+[20:14:28] [Server thread/INFO]: [LifeStealZ] Loading LifeStealZ...
+[20:14:28] [Server thread/INFO]: [floodgate] Loading floodgate v2.2.3-SNAPSHOT (b107-c4a4487)
+[20:14:29] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[20:14:29] [Server thread/INFO]: [floodgate] Took 1,242ms to boot Floodgate
+[20:14:29] [Server thread/INFO]: [playit-gg] Loading playit-gg v0.1.4
+[20:14:29] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser-Spigot v2.3.1-SNAPSHOT
+[20:14:29] [Server thread/WARN]: [Geyser-Spigot] Missing locale: en_
+[20:14:30] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[20:14:30] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[20:14:30] [Server thread/INFO]: [GeyserSkinManager] Loading GeyserSkinManager v1.7
+[20:14:30] [Server thread/INFO]: Preparing level "Farms"
+[20:14:30] [Server thread/INFO]: -------- World Settings For [Farms] --------
+[20:14:30] [Server thread/INFO]: Mob Spawn Range: 6
+[20:14:30] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[20:14:30] [Server thread/INFO]: Max TNT Explosions: 100
+[20:14:30] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:14:30] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:14:30] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[20:14:30] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[20:14:30] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:14:30] [Server thread/INFO]: View Distance: 16
+[20:14:30] [Server thread/INFO]: Simulation Distance: 8
+[20:14:30] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:14:30] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:14:30] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[20:14:30] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:14:30] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20:14:30] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:14:30] [Server thread/INFO]: -------- World Settings For [Farms_nether] --------
+[20:14:30] [Server thread/INFO]: Mob Spawn Range: 6
+[20:14:30] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[20:14:30] [Server thread/INFO]: Max TNT Explosions: 100
+[20:14:30] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:14:30] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:14:30] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[20:14:30] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[20:14:30] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[20:14:30] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:14:30] [Server thread/INFO]: View Distance: 16
+[20:14:30] [Server thread/INFO]: Simulation Distance: 8
+[20:14:30] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:14:30] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:14:30] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[20:14:30] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:14:30] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20:14:30] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:14:33] [Server thread/INFO]: -------- World Settings For [Farms_the_end] --------
+[20:14:33] [Server thread/INFO]: Mob Spawn Range: 6
+[20:14:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[20:14:33] [Server thread/INFO]: Max TNT Explosions: 100
+[20:14:33] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:14:33] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:14:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:14:33] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:14:33] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:14:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:14:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:14:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:14:33] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:14:33] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:14:33] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:14:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:14:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:14:33] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:14:33] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:14:33] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:14:33] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:14:33] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:14:33] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[20:14:33] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[20:14:33] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[20:14:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[20:14:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[20:14:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:14:33] [Server thread/INFO]: View Distance: 16
+[20:14:33] [Server thread/INFO]: Simulation Distance: 8
+[20:14:33] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:14:33] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:14:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[20:14:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:14:33] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20:14:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:14:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:14:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:14:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:14:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:14:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:14:35] [Server thread/INFO]: Time elapsed: 1904 ms
+[20:14:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:14:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:14:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:14:35] [Server thread/INFO]: Time elapsed: 714 ms
+[20:14:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:14:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:14:36] [Server thread/INFO]: Time elapsed: 490 ms
+[20:14:36] [Server thread/INFO]: [LifeStealZ] Enabling LifeStealZ v1.1.19
+[20:14:36] [Server thread/INFO]: [LifeStealZ] Using language file: plugins/LifeStealZ/lang/en-US.yml
+[20:14:36] [Server thread/ERROR]: Error occurred while enabling LifeStealZ v1.1.19 (Is it up to date?)
+java.lang.NoClassDefFoundError: net/kyori/adventure/text/Component
+	at org.strassburger.lifestealz.util.CommandManager.registerCommands(CommandManager.java:18) ~[?:?]
+	at org.strassburger.lifestealz.LifeStealZ.onEnable(LifeStealZ.java:46) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:266) ~[spigot-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:342) ~[spigot-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:491) ~[spigot-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R4.CraftServer.enablePlugin(CraftServer.java:541) ~[spigot-1.20.6-R0.1-SNAPSHOT.jar:4149-Spigot-e2c1eee-4e7d749]
+	at org.bukkit.craftbukkit.v1_20_R4.CraftServer.enablePlugins(CraftServer.java:455) ~[spigot-1.20.6-R0.1-SNAPSHOT.jar:4149-Spigot-e2c1eee-4e7d749]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:634) ~[spigot-1.20.6-R0.1-SNAPSHOT.jar:4149-Spigot-e2c1eee-4e7d749]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:419) ~[spigot-1.20.6-R0.1-SNAPSHOT.jar:4149-Spigot-e2c1eee-4e7d749]
+	at net.minecraft.server.dedicated.DedicatedServer.e(DedicatedServer.java:265) ~[spigot-1.20.6-R0.1-SNAPSHOT.jar:4149-Spigot-e2c1eee-4e7d749]
+	at net.minecraft.server.MinecraftServer.y(MinecraftServer.java:1010) ~[spigot-1.20.6-R0.1-SNAPSHOT.jar:4149-Spigot-e2c1eee-4e7d749]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:311) ~[spigot-1.20.6-R0.1-SNAPSHOT.jar:4149-Spigot-e2c1eee-4e7d749]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.ClassNotFoundException: net.kyori.adventure.text.Component
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:160) ~[spigot-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:112) ~[spigot-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	... 13 more
+[20:14:36] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b107-c4a4487)
+[20:14:36] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.1.4
+[20:14:37] [Thread-11/INFO]: secret key found, checking
+[20:14:37] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.3.1-SNAPSHOT
+[20:14:37] [Thread-11/INFO]: check secret
+[20:14:37] [Server thread/INFO]: [GeyserSkinManager] Enabling GeyserSkinManager v1.7
+[20:14:38] [Thread-11/INFO]: found minecraft java tunnel: a-tears.joinmc.link
+[20:14:38] [Thread-11/INFO]: keys and tunnel setup
+[20:14:38] [Thread-11/WARN]: Got IO error working with :control.playit.gg/2602:fbaf:82c:0:0:0:0:1, error : java.net.SocketException: Network is unreachable
+[20:14:38] [Server thread/WARN]: [GeyserSkinManager] Floodgate found on the server! Disabling skin services and only running mod interactions.
+[20:14:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:14:38] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[20:14:38] [Server thread/INFO]: [Geyser-Spigot] 
+[20:14:38] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.3.1-SNAPSHOT (git-master-c3994a6)
+[20:14:38] [Server thread/INFO]: [Geyser-Spigot] 
+[20:14:38] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[20:14:38] [Thread-11/INFO]: request queued, waiting 1 second before resend
+[20:14:39] [Thread-11/INFO]: request queued, waiting 1 second before resend
+[20:14:43] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:22180
+[20:14:43] [Server thread/INFO]: [Geyser-Spigot] Done (5.155s)! Run /geyser help for help!
+[20:14:43] [Server thread/INFO]: Done (13.118s)! For help, type "help"
+[20:15:03] [epollEventLoopGroup-5-1/INFO]: [Geyser-Spigot] Player connected with username KaidenNight
+[20:15:03] [localSession-8-2/INFO]: [Geyser-Spigot] KaidenNight (logged in as: KaidenNight) has connected to the Java server
+[20:15:03] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KaidenNight joined (UUID: 00000000-0000-0000-0009-01f88ea8e98a)
+[20:15:03] [Server thread/INFO]: .KaidenNight joined the game
+[20:15:03] [Server thread/INFO]: .KaidenNight[/127.71.21.85:0] logged in with entity id 34 at ([Farms]144.4043, 125.0, 256.30634)
+[20:17:48] [Server thread/INFO]: .KaidenNight issued server command: /gamemode creative
+[20:17:48] [Server thread/INFO]: [.KaidenNight: Set own game mode to Creative Mode]
+[20:18:22] [Server thread/INFO]: .KaidenNight issued server command: /gamemode curvival
+[20:18:25] [Server thread/INFO]: .KaidenNight issued server command: /gamemode survival
+[20:18:25] [Server thread/INFO]: [.KaidenNight: Set own game mode to Survival Mode]
+[20:18:40] [Thread-11/INFO]: send keep alive
+[20:22:39] [Server thread/INFO]: .KaidenNight issued server command: /gamemode creative
+[20:22:39] [Server thread/INFO]: [.KaidenNight: Set own game mode to Creative Mode]
+[20:22:40] [Thread-11/INFO]: send keep alive
+[20:22:53] [Server thread/INFO]: .KaidenNight issued server command: /gamemode survival
+[20:22:53] [Server thread/INFO]: [.KaidenNight: Set own game mode to Survival Mode]
+[20:26:41] [Thread-11/INFO]: send keep alive
+[20:27:15] [Thread-11/INFO]: got new client: NewClient{connectAddr=209.25.140.194:9933, peerAddr=24.20.200.158:40914, claimAddress=209.25.141.2:43783, claimToken=[44, 0, 60, -47, 25, -116, -62, 38, -51, 24, 20, -56, -98, -97, -46, -31, 24, 12, 116, -85, 7, 102, 103, 97, -93, 0, 0, 0, 0, 0, 8, -6, 34, 0, 0, 0, 0, 0, 50, 39, 121, 96, 116, -85, 7, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1, 40, -4, -4, -33, 42, -56, 90, 22, 105, 85, -83, 44, 76, 61, 9, 98], tunnelServerId=2, dataCenterId=1}
+[20:27:15] [Thread-11/INFO]: starting tcp tunnel for client
+[20:27:15] [Thread-11/INFO]: start connection to /209.25.141.2:43783 to claim client
+[20:27:15] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[20:27:15] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[20:27:15] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[20:27:15] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[20:27:15] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[20:27:15] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[20:27:15] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[20:27:18] [Thread-11/INFO]: got new client: NewClient{connectAddr=209.25.140.194:9933, peerAddr=24.20.200.158:57450, claimAddress=209.25.141.2:43783, claimToken=[44, 0, 60, -47, 25, -116, -62, 38, -51, 24, 20, -56, -98, -32, 106, -31, 114, -80, 76, -85, 7, 102, 103, 97, -90, 0, 0, 0, 0, 0, 8, -6, 34, 0, 0, 0, 0, 0, 50, 39, 121, -86, 76, -85, 7, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1, -25, -114, -25, 26, 41, -109, -93, 75, -58, 119, -11, 35, 26, 72, -60, 127], tunnelServerId=2, dataCenterId=1}
+[20:27:18] [Thread-11/INFO]: starting tcp tunnel for client
+[20:27:18] [Thread-11/INFO]: start connection to /209.25.141.2:43783 to claim client
+[20:27:18] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[20:27:18] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[20:27:18] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[20:27:18] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[20:27:18] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[20:27:18] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[20:27:18] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[20:27:21] [Thread-11/INFO]: got new client: NewClient{connectAddr=209.25.140.194:9933, peerAddr=24.20.200.158:57454, claimAddress=209.25.141.2:43783, claimToken=[44, 0, 60, -47, 25, -116, -62, 38, -51, 24, 20, -56, -98, -32, 110, -81, -56, 22, -97, -85, 7, 102, 103, 97, -87, 0, 0, 0, 0, 0, 8, -6, 34, 0, 0, 0, 0, 0, 50, 39, 121, -83, -97, -85, 7, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1, 13, -4, 114, -115, -41, -54, -46, 79, -97, -104, 41, -112, -11, 17, -81, 28], tunnelServerId=2, dataCenterId=1}
+[20:27:21] [Thread-11/INFO]: starting tcp tunnel for client
+[20:27:21] [Thread-11/INFO]: start connection to /209.25.141.2:43783 to claim client
+[20:27:21] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[20:27:21] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[20:27:21] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[20:27:21] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[20:27:21] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[20:27:21] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[20:27:21] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[20:29:00] [Server thread/WARN]: .KaidenNight was kicked for floating too long!
+[20:29:00] [Server thread/INFO]: .KaidenNight lost connection: Flying is not enabled on this server
+[20:29:00] [Geyser Spigot connection thread-7-3/INFO]: [floodgate] Floodgate player logged in as .KaidenNight disconnected
+[20:29:00] [localSession-8-2/INFO]: [Geyser-Spigot] KaidenNight has disconnected from the Java server because of Flying is not enabled on this server
+[20:29:00] [Server thread/INFO]: .KaidenNight left the game.
+[20:29:00] [Server thread/WARN]: handleDisconnection() called twice
+[20:29:56] [epollEventLoopGroup-5-2/INFO]: [Geyser-Spigot] Player connected with username KaidenNight
+[20:29:56] [localSession-8-3/INFO]: [Geyser-Spigot] KaidenNight (logged in as: KaidenNight) has connected to the Java server
+[20:29:56] [Server thread/INFO]: [floodgate] Floodgate player logged in as .KaidenNight joined (UUID: 00000000-0000-0000-0009-01f88ea8e98a)
+[20:29:56] [Server thread/INFO]: .KaidenNight joined the game
+[20:29:56] [Server thread/INFO]: .KaidenNight[/127.71.21.85:0] logged in with entity id 2405 at ([Farms]36.468807, 91.01707088809668, 379.23166)
+[20:30:37] [Server thread/INFO]: .KaidenNight issued server command: /gamemode creative
+[20:30:37] [Server thread/INFO]: [.KaidenNight: Set own game mode to Creative Mode]
+[20:30:42] [Thread-11/INFO]: send keep alive
+[20:34:42] [Thread-11/INFO]: send keep alive
+[20:36:25] [Server thread/INFO]: .KaidenNight issued server command: /fill 33 85 383 286 117 383 air
+[20:36:25] [Server thread/INFO]: [.KaidenNight: Successfully filled 8382 block(s)]
+[20:38:43] [Thread-11/INFO]: send keep alive
+[20:42:33] [connectionLostChecker-1/ERROR]: [floodgate] [debug] Got an error
+com.google.gson.JsonSyntaxException: Expected a com.google.gson.JsonObject but was com.google.gson.JsonPrimitive; at path $
+	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1010) ~[gson-2.10.1.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1227) ~[gson-2.10.1.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1137) ~[gson-2.10.1.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1047) ~[gson-2.10.1.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:982) ~[gson-2.10.1.jar:?]
+	at org.geysermc.floodgate.skin.SkinUploadSocket.onClose(SkinUploadSocket.java:155) ~[?:?]
+	at org.java_websocket.client.WebSocketClient.onWebsocketClose(WebSocketClient.java:663) ~[?:?]
+	at org.java_websocket.WebSocketImpl.closeConnection(WebSocketImpl.java:552) ~[?:?]
+	at org.java_websocket.WebSocketImpl.closeConnection(WebSocketImpl.java:576) ~[?:?]
+	at org.java_websocket.AbstractWebSocket.executeConnectionLostDetection(AbstractWebSocket.java:232) ~[?:?]
+	at org.java_websocket.AbstractWebSocket.access$200(AbstractWebSocket.java:43) ~[?:?]
+	at org.java_websocket.AbstractWebSocket$1.run(AbstractWebSocket.java:203) ~[?:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358) ~[?:?]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[20:42:43] [Thread-11/INFO]: send keep alive
+[20:44:34] [Server thread/INFO]: .KaidenNight issued server command: /gamemode survival
+[20:44:34] [Server thread/INFO]: [.KaidenNight: Set own game mode to Survival Mode]
+[20:46:43] [Thread-11/INFO]: send keep alive
+[20:50:43] [Thread-11/INFO]: send keep alive
+[20:51:17] [Server thread/INFO]: .KaidenNight has reached the goal [Postmortal]
+[20:52:13] [Server thread/INFO]: .KaidenNight issued server command: /gamemode creative
+[20:52:13] [Server thread/INFO]: [.KaidenNight: Set own game mode to Creative Mode]
+[20:52:27] [Server thread/INFO]: .KaidenNight issued server command: /effect give .KaidenNight minecraft:night_vision infinite
+[20:52:27] [Server thread/INFO]: [.KaidenNight: Applied effect Night Vision to .KaidenNight]
+[20:54:43] [Thread-11/INFO]: send keep alive
+[20:58:44] [Thread-11/INFO]: send keep alive
+[21:02:44] [Thread-11/INFO]: send keep alive
+[21:06:44] [Thread-11/INFO]: send keep alive
+[21:10:44] [Thread-11/INFO]: send keep alive
+[21:14:45] [Thread-11/INFO]: send keep alive
+[21:18:45] [Thread-11/INFO]: send keep alive
+[21:19:31] [epollEventLoopGroup-5-3/INFO]: [Geyser-Spigot] Player connected with username Yash gamer6692
+[21:19:31] [localSession-8-4/INFO]: [Geyser-Spigot] Yash gamer6692 (logged in as: Yash_gamer6692) has connected to the Java server
+[21:19:31] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Yash_gamer6692 joined (UUID: 00000000-0000-0000-0009-01f5b2b408a6)
+[21:19:31] [Server thread/INFO]: .Yash_gamer6692 joined the game
+[21:19:31] [Server thread/INFO]: .Yash_gamer6692[/127.249.102.98:0] logged in with entity id 27591 at ([Farms]4.5, 77.0, -5.5)
+[21:19:46] [Async Chat Thread - #0/INFO]: [Not Secure] <.KaidenNight> hello
+[21:19:51] [Async Chat Thread - #1/INFO]: [Not Secure] <.Yash_gamer6692> hi?
+[21:20:07] [Async Chat Thread - #0/INFO]: [Not Secure] <.KaidenNight> how did you join?
+[21:20:14] [Async Chat Thread - #1/INFO]: [Not Secure] <.Yash_gamer6692> form th webssite?
+[21:20:21] [Async Chat Thread - #0/INFO]: [Not Secure] <.KaidenNight> what website?
+[21:20:31] [Server thread/INFO]: .Yash_gamer6692 issued server command: /helo
+[21:20:33] [Server thread/INFO]: .Yash_gamer6692 issued server command: /help
+[21:20:42] [Server thread/INFO]: .Yash_gamer6692 issued server command: /help 2
+[21:20:54] [Async Chat Thread - #1/INFO]: [Not Secure] <.Yash_gamer6692> is this lifesteal?
+[21:21:01] [Async Chat Thread - #0/INFO]: [Not Secure] <.KaidenNight> yes
+[21:21:18] [Async Chat Thread - #1/INFO]: [Not Secure] <.Yash_gamer6692> you creative or survival
+[21:21:25] [Async Chat Thread - #0/INFO]: [Not Secure] <.KaidenNight> survival
+[21:21:42] [Async Chat Thread - #1/INFO]: [Not Secure] <.Yash_gamer6692> maxed gear or just started
+[21:22:29] [Async Chat Thread - #0/INFO]: [Not Secure] <.Yash_gamer6692> WTF
+[21:22:33] [Async Chat Thread - #1/INFO]: [Not Secure] <.KaidenNight> ?
+[21:22:42] [Server thread/INFO]: .KaidenNight issued server command: /gamemode survival
+[21:22:42] [Server thread/INFO]: [.KaidenNight: Set own game mode to Survival Mode]
+[21:22:45] [Thread-11/INFO]: send keep alive
+[21:22:49] [Async Chat Thread - #0/INFO]: [Not Secure] <.Yash_gamer6692> what is that in distance
+[21:23:03] [Async Chat Thread - #1/INFO]: [Not Secure] <.KaidenNight> you see anvils?
+[21:23:13] [Async Chat Thread - #0/INFO]: [Not Secure] <.Yash_gamer6692> i think sso
+[21:23:52] [Async Chat Thread - #1/INFO]: [Not Secure] <.KaidenNight> its a perimeter
+[21:23:54] [Async Chat Thread - #0/INFO]: [Not Secure] <.Yash_gamer6692> is thi your base
+[21:25:23] [Async Chat Thread - #3/INFO]: [Not Secure] <.Yash_gamer6692> wait
+[21:25:28] [Async Chat Thread - #2/INFO]: [Not Secure] <.Yash_gamer6692> where are you kaid
+[21:25:29] [Async Chat Thread - #2/INFO]: [Not Secure] <.KaidenNight> ?
+[21:25:38] [Async Chat Thread - #3/INFO]: [Not Secure] <.KaidenNight> at the premiter
+[21:26:09] [Async Chat Thread - #2/INFO]: [Not Secure] <.Yash_gamer6692> oh your maxed gear bro?
+[21:26:20] [Async Chat Thread - #3/INFO]: [Not Secure] <.KaidenNight> yes
+[21:26:31] [Async Chat Thread - #2/INFO]: [Not Secure] <.Yash_gamer6692> and how much hearts
+[21:26:37] [Async Chat Thread - #3/INFO]: [Not Secure] <.KaidenNight> I've been playing on this world for long time
+[21:26:43] [Async Chat Thread - #2/INFO]: [Not Secure] <.Yash_gamer6692> oh
+[21:26:45] [Thread-11/INFO]: send keep alive
+[21:26:48] [Async Chat Thread - #3/INFO]: [Not Secure] <.KaidenNight> no hearts
+[21:27:02] [Server thread/INFO]: .Yash_gamer6692 was slain by Zombie
+[21:27:48] [Server thread/WARN]: .Yash_gamer6692 moved wrongly!
+[21:28:20] [Server thread/INFO]: .Yash_gamer6692 was slain by Zombie
+[21:28:46] [Server thread/INFO]: .Yash_gamer6692 has made the advancement [Sweet Dreams]
+[21:29:13] [Server thread/INFO]: .KaidenNight issued server command: /time set day
+[21:29:13] [Server thread/INFO]: [.KaidenNight: Set the time to 1000]
+[21:29:27] [Server thread/INFO]: .KaidenNight issued server command: /gamemode creative
+[21:29:27] [Server thread/INFO]: [.KaidenNight: Set own game mode to Creative Mode]
+[21:29:45] [Server thread/INFO]: .KaidenNight issued server command: /gamemode survival
+[21:29:45] [Server thread/INFO]: [.KaidenNight: Set own game mode to Survival Mode]
+[21:30:05] [Async Chat Thread - #5/INFO]: [Not Secure] <.KaidenNight> I will get some tools for u
+[21:30:10] [Async Chat Thread - #4/INFO]: [Not Secure] <.Yash_gamer6692> wok
+[21:30:46] [Thread-11/INFO]: send keep alive
+[21:31:30] [Async Chat Thread - #7/INFO]: [Not Secure] <.KaidenNight> where are you?
+[21:31:37] [Async Chat Thread - #6/INFO]: [Not Secure] <.Yash_gamer6692> in the permir
+[21:31:53] [Server thread/INFO]: .Yash_gamer6692 fell from a high place
+[21:32:07] [Async Chat Thread - #7/INFO]: [Not Secure] <.Yash_gamer6692> at villaegr
+[21:32:30] [Server thread/INFO]: .Yash_gamer6692 issued server command: /list
+[21:32:49] [Async Chat Thread - #6/INFO]: [Not Secure] <.KaidenNight> you see me?
+[21:32:57] [Async Chat Thread - #7/INFO]: [Not Secure] <.Yash_gamer6692> nah
+[21:33:14] [Async Chat Thread - #6/INFO]: [Not Secure] <.Yash_gamer6692> come to permir little close
+[21:33:30] [Thread-11/INFO]: got new client: NewClient{connectAddr=209.25.140.194:9933, peerAddr=24.20.200.158:48116, claimAddress=209.25.141.2:43783, claimToken=[44, 0, 60, -47, 25, -116, -62, 38, -51, 24, 20, -56, -98, -69, -12, -63, -14, -123, 87, -85, 7, 102, 103, 113, 42, 0, 0, 0, 0, 0, 8, -6, 34, 0, 0, 0, 0, 0, 50, 39, 121, -94, 87, -85, 7, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 3, 0, 1, -68, 102, -20, 120, 71, -75, -106, 22, -12, 127, 114, -105, -21, -86, 106, -77], tunnelServerId=3, dataCenterId=1}
+[21:33:30] [Thread-11/INFO]: starting tcp tunnel for client
+[21:33:30] [Thread-11/INFO]: start connection to /209.25.141.2:43783 to claim client
+[21:33:30] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[21:33:30] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[21:33:30] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[21:33:30] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[21:33:30] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[21:33:30] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[21:33:30] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[21:33:33] [Thread-11/INFO]: got new client: NewClient{connectAddr=209.25.140.194:9933, peerAddr=24.20.200.158:48124, claimAddress=209.25.141.2:43783, claimToken=[44, 0, 60, -47, 25, -116, -62, 38, -51, 24, 20, -56, -98, -69, -4, -117, -61, 5, 110, -85, 7, 102, 103, 113, 45, 0, 0, 0, 0, 0, 8, -6, 34, 0, 0, 0, 0, 0, 50, 39, 121, 118, 110, -85, 7, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 59, 66, -4, -59, -27, 123, -11, 40, -111, 49, -9, -79, 44, -54, -128, 34], tunnelServerId=1, dataCenterId=1}
+[21:33:33] [Thread-11/INFO]: starting tcp tunnel for client
+[21:33:33] [Thread-11/INFO]: start connection to /209.25.141.2:43783 to claim client
+[21:33:33] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[21:33:33] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[21:33:33] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[21:33:33] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[21:33:33] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[21:33:33] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[21:33:33] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[21:33:36] [Thread-11/INFO]: got new client: NewClient{connectAddr=209.25.140.194:9933, peerAddr=24.20.200.158:52402, claimAddress=209.25.141.2:43783, claimToken=[44, 0, 60, -47, 25, -116, -62, 38, -51, 24, 20, -56, -98, -52, -78, -10, 117, 91, 100, -85, 7, 102, 103, 113, 48, 0, 0, 0, 0, 0, 8, -6, 34, 0, 0, 0, 0, 0, 50, 39, 121, 31, 100, -85, 7, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, -8, 29, 124, 62, 74, -66, -43, 48, 92, -63, 33, 46, -50, -38, -16, 63], tunnelServerId=1, dataCenterId=1}
+[21:33:36] [Thread-11/INFO]: starting tcp tunnel for client
+[21:33:36] [Thread-11/INFO]: start connection to /209.25.141.2:43783 to claim client
+[21:33:36] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[21:33:36] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[21:33:36] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[21:33:36] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[21:33:36] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[21:33:36] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[21:33:36] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[21:33:36] [Thread-11/INFO]: got new client: NewClient{connectAddr=[2602:fbaf:0808:0000:0000:0000:0000:00c2]:9933, peerAddr=[2601:01c2:c100:0555:020f:53ff:fe4e:e541]:39052, claimAddress=209.25.141.2:43783, claimToken=[64, 0, 88, 38, 2, -5, -81, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, -62, 38, -51, 38, 1, 1, -62, -63, 0, 5, 85, 2, 15, 83, -1, -2, 78, -27, 65, -104, -116, 0, 0, 0, 0, -7, 76, 86, 54, -85, 7, 102, 103, 113, 48, 0, 0, 0, 0, 0, 8, -6, 34, 0, 0, 0, 0, 0, 50, 39, 121, 76, 54, -85, 7, 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1, 127, 63, -124, -63, 58, 110, 97, 80, 45, -39, -75, 9, -94, -54, 15, -67], tunnelServerId=2, dataCenterId=8}
+[21:33:36] [Thread-11/INFO]: starting tcp tunnel for client
+[21:33:36] [Thread-11/INFO]: start connection to /209.25.141.2:43783 to claim client
+[21:33:36] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[21:33:36] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[21:33:36] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[21:33:36] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[21:33:36] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[21:33:36] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[21:33:36] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[21:34:27] [Server thread/INFO]: .Yash_gamer6692 has reached the goal [Sky's the Limit]
+[21:34:48] [Thread-11/INFO]: send keep alive
+[21:34:50] [Async Chat Thread - #9/INFO]: [Not Secure] <.Yash_gamer6692> helmate?
+[21:35:06] [Async Chat Thread - #8/INFO]: [Not Secure] <.KaidenNight> dont have
+[21:35:10] [Async Chat Thread - #9/INFO]: [Not Secure] <.Yash_gamer6692> k
+[21:35:12] [Async Chat Thread - #8/INFO]: [Not Secure] <.KaidenNight> you on bedrock or java?
+[21:35:15] [Async Chat Thread - #9/INFO]: [Not Secure] <.Yash_gamer6692> berock
+[21:35:20] [Async Chat Thread - #8/INFO]: [Not Secure] <.KaidenNight> oh ok
+[21:35:21] [Async Chat Thread - #9/INFO]: [Not Secure] <.Yash_gamer6692> wanna 1v1?
+[21:35:39] [Server thread/INFO]: .Yash_gamer6692 issued server command: /shop
+[21:36:15] [localSession-8-3/INFO]: [Geyser-Spigot] KaidenNight has disconnected from the Java server because of Bedrock client timed out
+[21:36:15] [Geyser Spigot connection thread-7-4/INFO]: [floodgate] Floodgate player logged in as .KaidenNight disconnected
+[21:36:15] [Server thread/INFO]: .KaidenNight lost connection: Disconnected
+[21:36:15] [Server thread/INFO]: .KaidenNight left the game
+[21:38:32] [Server thread/INFO]: .Yash_gamer6692 has reached the goal [Postmortal]
+[21:38:49] [Thread-11/INFO]: send keep alive
+[21:41:13] [Server thread/INFO]: .Yash_gamer6692 has made the advancement [A Seedy Place]
+[21:42:49] [Thread-11/INFO]: send keep alive
+[21:46:49] [Thread-11/INFO]: send keep alive
+[21:48:12] [localSession-8-4/INFO]: [Geyser-Spigot] Yash gamer6692 has disconnected from the Java server because of Bedrock client disconnected
+[21:48:12] [Geyser Spigot connection thread-7-1/INFO]: [floodgate] Floodgate player logged in as .Yash_gamer6692 disconnected
+[21:48:12] [Server thread/INFO]: .Yash_gamer6692 lost connection: Disconnected
+[21:48:12] [Server thread/INFO]: .Yash_gamer6692 left the game
+[21:50:49] [Thread-11/INFO]: send keep alive
+[21:54:49] [Thread-11/INFO]: send keep alive
+[21:58:50] [Thread-11/INFO]: send keep alive
+[22:02:50] [Thread-11/INFO]: send keep alive
+[22:05:33] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:287) ~[?:?]
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:291) ~[?:?]
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:325) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:312) ~[?:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169) ~[jline-2.12.1.jar:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137) ~[jline-2.12.1.jar:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246) ~[jline-2.12.1.jar:?]
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:261) ~[jline-2.12.1.jar:?]
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:198) ~[jline-2.12.1.jar:?]
+	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145) ~[jline-2.12.1.jar:?]
+	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349) ~[jline-2.12.1.jar:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:128) [spigot-1.20.6-R0.1-SNAPSHOT.jar:4149-Spigot-e2c1eee-4e7d749]
+[22:05:33] [Thread-1/INFO]: Stopping server
+[22:05:33] [Thread-1/INFO]: [GeyserSkinManager] Disabling GeyserSkinManager v1.7
+[22:05:33] [Thread-1/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.3.1-SNAPSHOT
+[22:05:33] [Thread-1/INFO]: [Geyser-Spigot] Shutting down Geyser.
